@@ -1,0 +1,12 @@
+{
+	"name": "SecondLine Custom",
+	"version": "2.0.7",
+	"download_url": "https://secondlinethemes.com/sltc/secondline-custom.zip",
+	"homepage": "https://secondlinethemes.com/",
+	"requires": "5.2",
+	"upgrade_notice": "Added built-in updater.",
+	"last_updated": "2020-06-05 00:00",
+	"author": "SecondLineThemes",
+	"author_homepage": "https://secondlinethemes.com/"
+
+}
